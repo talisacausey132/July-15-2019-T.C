@@ -1,0 +1,20 @@
+h2 {color:blueviolet;}
+body{color:black;}
+
+p{
+  background-color:yellowgreen;
+  margin: 10px;
+}
+div
+{
+  color: white;
+  background-color: 009900;
+  margin: 2px;
+  font-size: 25px;
+}
+div {
+  width: 300px;
+  border: 15px solid blueviolet;
+  padding: 50px;
+  margin: 20px;
+}
